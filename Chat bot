@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chatbot học vụ</title>
+</head>
+<body>
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+
+<df-messenger
+  intent="WELCOME"
+  chat-title="ITUVAN"
+  agent-id="ccaf80cb-801f-4283-8c32-fa925a3db50f"
+  language-code="vi"
+></df-messenger>
+
+</body>
+</html>
